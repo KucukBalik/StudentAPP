@@ -16,5 +16,11 @@ public class StudentApp {
         System.out.println("Please enter the student course: \n");
         String courseName = sc.nextLine();
 
+        Student a = new Student();
+        a.setName(studentName);
+
+
+
+
     }
 }
