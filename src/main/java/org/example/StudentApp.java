@@ -19,7 +19,7 @@ public class StudentApp {
         Student a = new Student();
         a.setName(studentName);
 
-
+        Student b = new Student("Emre", "427391", "Software");
 
 
     }
